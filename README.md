@@ -37,9 +37,5 @@
   <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-131313?style=for-the-badge&logo=CodeSandbox&logoColor=white"/>
 </a>
 <h3>Donate</h3>
-<a href="https://www.blockchain.com/btc/address/bc1qny2seeeezt84xrl8znr6nvxt2l4nlh6lfzzp0v">
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-</a>
-<a href="https://etherscan.io/address/0x2BA30F26B0D163cDFEEA21B9eaC8f82f1Afaa021">
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-0D2038?style=for-the-badge&logo=ethereum&logoColor=white"/>
-</a>
+<a href="https://www.blockchain.com/btc/address/bc1qny2seeeezt84xrl8znr6nvxt2l4nlh6lfzzp0v"><img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
+ <a href="https://etherscan.io/address/0x2BA30F26B0D163cDFEEA21B9eaC8f82f1Afaa021"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-0D2038?style=for-the-badge&logo=ethereum&logoColor=white"/></a>
