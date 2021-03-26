@@ -6,7 +6,7 @@
   <ul>
     <li>Working at a Private Project</li>
     <li>Learning to use Laravel <strong>Proficiently</strong></li>
-    <li>Not using Arch 😅</li>
+    <li>using an Arch-based distro</li>
   <li>Waiting for <a href="https://coinmarketcap.com/currencies/binance-coin/">Binance Coin</a> to 🚀</li>
   </ul>
   <br>
