@@ -5,8 +5,7 @@
   <h4>Currently, I'm</h4>
   <ul>
     <li>Working at a Private Project</li>
-    <li>Learning to use Laravel <strong>Proficiently</strong></li>
-    <li>using an Arch-based distro</li>
+  <li>Working on a project based on <a href="https://nextjs.org/">Next.js</a></li>
   </ul>
   <br>
 <h2>My Stats 👨‍💻 </h2>
