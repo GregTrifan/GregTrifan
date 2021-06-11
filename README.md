@@ -2,11 +2,6 @@
 <h1> Hi there! 👋 </h1>
 <h3><code>$ whoami</code></h3>
   <h4>My name is Greg, and I'm a React Lover</h4>
-  <h4>Currently, I'm</h4>
-  <ul>
-    <li>Working at a Private Project</li>
-  <li>Working on a project based on <a href="https://nextjs.org/">Next.js</a></li>
-  </ul>
   <br>
 <h2>My Stats 👨‍💻 </h2>
 
