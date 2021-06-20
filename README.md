@@ -1,7 +1,7 @@
 
 <h1> Hi there! 👋 </h1>
 <h3><code>$ whoami</code></h3>
-  <h4>My name is Greg, and I'm a React Lover</h4>
+  <h4>My name is Greg, and I'm a FullStack Developer</h4>
   <br>
 <h2>My Stats 👨‍💻 </h2>
 
