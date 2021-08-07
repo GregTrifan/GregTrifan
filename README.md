@@ -6,10 +6,7 @@
 <h2>My Stats 👨‍💻 </h2>
 
 <img alt=""  src="https://github-readme-stats.vercel.app/api?username=TheSlayer-666&show_icons=true&theme=gotham" />
-  
-
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSlayer-666&layout=compact&theme=gotham"/>
-
+<img src="http://github-readme-streak-stats.herokuapp.com?user=TheSlayer-666&theme=gotham&hide_border=false"/>
 
  <br/>
 <h1> Within my Tooling 🛠️ </h1>
