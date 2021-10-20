@@ -28,9 +28,8 @@
 </div>
 <h2>Other Accounts 💻</h2>
 <a href="https://codesandbox.io/u/TheSlayer-666">
-  <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-131313?style=for-the-badge&logo=CodeSandbox&logoColor=white"/>
-</a>
- <a href="https://www.linkedin.com/in/grigore-trifan-666biyz/">
+  <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-131313?style=for-the-badge&logo=CodeSandbox&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/grigore-trifan-666biyz/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
