@@ -4,10 +4,8 @@
   <h4>My name is Greg, and I'm a FullStack Developer</h4>
   <br>
 <h2>My Stats 👨‍💻 </h2>
-
 <img alt=""  src="https://github-readme-stats.vercel.app/api?username=GregTrifan&show_icons=true&theme=gotham" />
 
- <br/>
 <h1> Within my Tooling 🛠️ </h1>
 <div>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
